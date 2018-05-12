@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '40174'
     url: http://www.gutenberg.org/2009/agents/40174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39717#Karolingsche-VerhalenOranje---Floris-en-Blancefloer
 gutenberg_issued: '2012-05-17'
 gutenberg_type: Text
 identifiers:
