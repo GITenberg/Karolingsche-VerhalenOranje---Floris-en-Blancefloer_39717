@@ -1,0 +1,32 @@
+_repo: Karolingsche-VerhalenOranje---Floris-en-Blancefloer_39717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alberdingk Thijm, J. A. (Josephus Albertus)
+    aliases:
+    - Alberdingk Thijm, Josephus Albertus
+    - Thijm, J. A. Alberdingk (Josephus Albertus Alberdingk)
+    - Peregrijn, Lukas
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '40174'
+    url: http://www.gutenberg.org/2009/agents/40174
+description: ''
+gutenberg_issued: '2012-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39717'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Romances, Dutch'
+tableOfContents: Carel en Elegast -- De vier heemskinderen -- Willem van Oranje --
+  Floris en Blancefloer.
+title: Karolingsche Verhalen
+url: http://www.gutenberg.org/ebooks/39717
